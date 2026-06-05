@@ -12,9 +12,9 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-## TODO: replace with your real GitHub Pages URL once the repo exists (e.g. https://<username>.github.io)
-url: https://EDIT_ME.github.io
+## Project repo (tsgx1990/content.github.io) => served under a subpath, so root must be set.
+url: https://tsgx1990.github.io/content.github.io
+root: /content.github.io/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
