@@ -69,8 +69,7 @@ Editor** (web) or **Grammarly free** for line-level cleanup.
 - **Want the best free prose quality** → **Claude** free tier (+ Hemingway/Grammarly to edit).
 - **Want a real novel workspace and don't mind API keys** → **RaptorWrite** (free software, BYO key).
 - **Just testing the waters** → **Squibler** free tier (6,000 words/mo) or **Toolsaday**.
-- **Ready to commit to a paid fiction-native tool?** See our [Sudowrite vs NovelCrafter
-  comparison](./sudowrite-vs-novelcrafter.md) for the two leading paid options.
+- **Ready to commit to a paid fiction-native tool?** See our {% post_link sudowrite-vs-novelcrafter 'Sudowrite vs NovelCrafter comparison' %} for the two leading paid options.
 
 ## FAQ
 
