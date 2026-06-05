@@ -12,7 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## Project repo (tsgx1990/content.github.io) => served under a subpath, so root must be set.
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## Project-repo Pages URL (repo is tsgx1990/content.github.io, served under a subpath).
 url: https://tsgx1990.github.io/content.github.io
 root: /content.github.io/
 permalink: :title/
