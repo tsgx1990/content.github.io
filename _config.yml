@@ -57,6 +57,13 @@ prismjs:
   line_number: true
   tab_replace: ''
 
+# Markdown rendering (hexo-renderer-marked)
+# breaks:false => follow standard Markdown: a single newline inside a paragraph is a SOFT break
+# (joined), only a blank line starts a new paragraph. Without this, soft-wrapped prose renders
+# with a forced <br> on every source line.
+marked:
+  breaks: false
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
