@@ -1,6 +1,6 @@
 ---
 title: "How to Write a Novel with AI: An Honest 2026 Workflow"
-date: 2026-06-08 11:11:57
+date: 2026-06-08 11:27:13
 tags: [how to write a novel with ai, ai novel writing, ai for fiction writers, ai writing workflow, write a book with ai]
 categories: [AI Writing, How-To]
 description: "A practical, tool-agnostic workflow for writing a novel with AI in 2026: premise, outline, characters, drafting, consistency, revision, plus the copyright reality."
@@ -20,7 +20,7 @@ The fastest way to waste a month is to expect AI to hand you a book. Used as a o
 
 So the mental model for this whole workflow is simple. You make every creative decision. AI gives you raw material to react to, accelerates the typing, and remembers details across a long draft. It does not decide what your book is about or what it means. Hold that line and AI is a tireless writing partner. Drop it and you get a manuscript that reads as machine-written, which more and more readers, editors, and agents can spot on sight.
 
-Here's what that division of labor looks like in practice across the seven stages.
+Here's what that division of labor looks like in practice across the seven stages. Each one below includes a copy-paste prompt; for many more, grouped the same way, see {% post_link ai-story-prompts "50+ AI story prompts for fiction writers" %}.
 
 ## Stage 1: Find the premise and the spine
 
