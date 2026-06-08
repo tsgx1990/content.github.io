@@ -1,6 +1,6 @@
 ---
 title: "How to Overcome Writer's Block with AI (and When Not To)"
-date: 2026-06-07 17:58:19
+date: 2026-06-08 11:13:02
 tags: [writer's block, ai for writers, fiction writing, chatgpt for writers]
 categories: [AI Writing, How-To]
 description: "Beat writer's block with AI: diagnose the type first (blank page, sagging middle, fear, or lost thread), then use the right prompt without losing your voice."
@@ -10,7 +10,7 @@ lang: en
 
 Most advice on this either oversells AI as a magic cure or warns you off it entirely. Both are wrong. AI can absolutely get you unstuck, but used lazily it deepens the block, because outsourcing the hard thinking is exactly how you lose momentum *and* your voice.
 
-The trick is to stop treating "writer's block" as one problem. It's at least four, and each one needs a different AI move. Below is how to diagnose which block you have, the specific prompt that breaks it, and the one rule that keeps the words still yours.
+The trick is to stop treating "writer's block" as one problem. It's at least four, and each one needs a different AI move. Below is how to diagnose which block you have, the specific prompt that breaks it, and the one rule that keeps the words still yours. (Getting unstuck is one piece of the bigger picture; for the full process, see {% post_link how-to-write-a-novel-with-ai "how to write a novel with AI" %}.)
 
 ## First, the honest part: AI can make a block worse
 

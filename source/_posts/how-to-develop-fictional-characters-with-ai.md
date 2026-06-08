@@ -1,6 +1,6 @@
 ---
 title: "How to Develop Fictional Characters with AI (2026)"
-date: 2026-06-07 17:58:19
+date: 2026-06-08 11:13:02
 tags: [ai character development, fiction writing, chatgpt for writers, novel characters]
 categories: [AI Writing, How-To]
 description: "Develop fictional characters with AI using a repeatable 4-step prompt workflow (interview, contradiction, voice, consistency) and avoid the generic AI character."
@@ -10,7 +10,7 @@ lang: en
 
 Type "create a character with AI" into a search bar and you'll mostly get image generators, the tools that draw you a face. That's not what a novelist needs. You don't have a *drawing* problem; you have a *person* problem: someone with a contradiction, a voice, and a reason to act.
 
-This guide is about the second thing: using AI to **develop** a fictional character's psychology, voice, and arc, not to render a portrait. Below is a repeatable prompt workflow you can paste into ChatGPT, Claude, or any chat model today, plus the two traps that make AI characters fall flat and how to avoid them.
+This guide is about the second thing: using AI to **develop** a fictional character's psychology, voice, and arc, not to render a portrait. Below is a repeatable prompt workflow you can paste into ChatGPT, Claude, or any chat model today, plus the two traps that make AI characters fall flat and how to avoid them. (Character work is one stage of a larger process; for the full arc from premise to manuscript, see {% post_link how-to-write-a-novel-with-ai "how to write a novel with AI" %}.)
 
 ## First: two different things people call "AI characters"
 
